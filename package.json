@@ -1,0 +1,13 @@
+{
+  "name": "ai-software-engineer-assignment-ts",
+  "version": "1.0.0",
+  "description": "AI Software Engineer Assignment (JS/TS)",
+  "main": "src/httpClient.ts",
+  "scripts": {
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "typescript": "5.7.3",
+    "vitest": "3.0.7"
+  }
+}
